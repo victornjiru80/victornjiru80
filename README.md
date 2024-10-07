@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/victornjiru80](https://github.com/victornjiru80)
 
-- 📫 How to reach me **victornjiru80@gmail.com**
+- 📫 Reach me via **victornjiru80@gmail.com**
 
 
 
