@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/victornjiru80](https://github.com/victornjiru80)
 
-- 📫 Reach me via
- <h2 align='center' >📫 How To Contact Me : </h2>
+- 📫 
+ <h2 align='center' >📫 Reach me via: </h2>
 
 <p align='center'>
-<a href="https://t.me/victorpumpkineater/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a> <!-- Telegram Logo  -->
-<a href="https://www.linkedin.com/in/victor-muriithi-479b95241/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a> <!-- Linkedin Logo  -->
-<a href="mailto: victornjiru80@gmail.com"><img height='100px' width="" src="https://seeklogo.com/images/G/gmail-logo-286F380C2D-seeklogo.com.png" /></a> <!-- Gmail Logo   -->
+  <a href="https://t.me/victorpumpkineater/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a> <!-- Telegram Logo  -->
+  <a href="https://www.linkedin.com/in/victor-muriithi-479b95241/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a> <!--       Linkedin Logo  -->
+  <a href="mailto: victornjiru80@gmail.com"><img height='100px' width="" src="https://seeklogo.com/images/G/gmail-logo-286F380C2D-seeklogo.com.png" /></a> <!-- Gmail Logo   -->
 
 </p>
 
