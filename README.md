@@ -12,7 +12,7 @@
   
  <h2 align='center' >📫 Reach me via: </h2>
 
-<p align='center'>
+<p align='left'>
       <!-- Telegram Logo  -->
   <a href="https://t.me/victorpumpkineater/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a> 
 
