@@ -6,9 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=victornjiru80&label=Profile%20views&color=0e75b6&style=flat" alt="victornjiru80" /> 
 </p>
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/victornjiru80](https://github.com/victornjiru80)
-
   
  <h2 align='center' >📫 Reach me via: </h2>
 
