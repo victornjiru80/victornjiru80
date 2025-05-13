@@ -6,16 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=victornjiru80&label=Profile%20views&color=0e75b6&style=flat" alt="victornjiru80" /> 
 </p>
 
-<p align='left'>
-      <!-- Telegram Logo  -->
-  <a href="https://t.me/victorpumpkineater/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a> 
 
-      
-  <a href="https://www.linkedin.com/in/victor-muriithi-479b95241/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a> 
-      <!-- Gmail Logo   -->
-  <a href="mailto: victornjiru80@gmail.com"><img height='100px' width="" src="https://seeklogo.com/images/G/gmail-logo-286F380C2D-seeklogo.com.png" /></a> 
-
-</p>
 
 
 
