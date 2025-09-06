@@ -2,11 +2,16 @@
 
 <h3 align="center">A FullStack web developer from Kenya</h3>
 
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=victornjiru80&label=Profile%20views&color=0e75b6&style=flat" alt="victornjiru80" /> 
 </p>
 
+<p>
+  A Full-Stack Developer driven by a love for solving problems and a passion for creating sleek, intuitive, and purposeful software. I’m all about crafting digital experiences that work and wow.
+<br><br>👯 I’m looking to collaborate on:<br>Any open-source/commercial projects involving React, Next.js, TypeScript, Node, or creative uses of AI. Bonus points if a delightful UI is involved.<br><br>🌱 I am currently learning:<br>- cloud computing<br>- Automations<br><br><br>
 
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
